@@ -3,17 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet25&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetsaw" /> </p>
 
+My Name Is **Ranjeet Saw 😎** And I'm A FrontEnd+(Little Backend)😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Third Year Student At **🎓 Thakur college of Engineering and Technology** Pursuing B.E/B.Tech In **🧑‍💻 Information Technology(IT)**. ⚡
 ## I'm a Web Dev & Blockchain Enthusiast!
 <!-- INTRODUCTION  -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Build outstanding projects at multiple hackathons
-- 📫 Reach me at **sawranjeet550@gmali.com**
-- ⚡ Fun fact: I love to design user interface
+- 🔭 I’m currently working on BackEnd Web Development.
+- 🌱 I’m currently Into MERN Stack And DSA.
+- 👯 I’m looking to collaborate on Web Development Projects.
+- 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
+- 💬 Ask me about Web Development And Programming.
+- :briefcase: You Can View My Portfolio At : **https://ranjeet25.netlify.app/**
 <!-- INTRODUCTION  ends -->
+
+
 <!-- Connect with me  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
 <!-- Social icons  -->
 <a href="https://twitter.com/ranjeetsaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderharsh06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ranjeet-saw-4834a21b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderharsh06" height="30" width="40" /></a>
@@ -27,13 +33,44 @@
 <!-- Languages icons  -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") 
+![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS") 
+![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") 
+![REACT JS](https://img.icons8.com/color/48/000000/react-native.png "REACT JS") 
+![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") 
+![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") 
+![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") 
+<br>
+![FIGMA](https://img.icons8.com/color/48/000000/figma.png "FIGMA") 
+![GOOGLE CLOUD](https://img.icons8.com/color/48/000000/google-cloud.png "GOOGLE CLOUD") 
+![BLOCKCHAIN](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "BLOCKCHAIN")
+![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MYSQL") 
+![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") 
+![C](https://img.icons8.com/color/48/000000/c-programming.png "C") 
+![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") 
+![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
+![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
+![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCODE") 
+![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
 <!-- Languages icons ENDS  -->
 
 <i><b><h2> GitHub Stats ✅</b></i></h2>
 <!-- GITHUB STATS 01  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet25&show_icons=true&locale=en" alt="coderharsh06" /></p>
-<!-- GITHUB STATS 02  -->
+
+<!-- ![Ranjeet's github stats](https://github-readme-stats.vercel.app/api?username=ranjeet25) -->
+
+ <!-- GITHUB STATS 02  -->
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeet25&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RANJEET25" /></td>
+
+<!-- GITHUB STATS 03  -->
 <div align="left">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet25&theme=dark" alt="ranjeet25" /></p>
   </div>
+
+<!-- GITHUB STATS 04  -->
+[![Ranjeet Saw's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ranjeet25&theme=xcode)](https://https://github.com/ranjeet25)
+
