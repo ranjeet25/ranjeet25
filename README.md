@@ -59,8 +59,7 @@ My Name Is **Ranjeet Saw 😎** And I'm A FrontEnd+(Little Backend)😉 Develope
 
 <i><b><h2> GitHub Stats ✅</b></i></h2>
 <!-- GITHUB STATS 01  -->
-
-![Ranjeet's github stats](https://github-readme-stats.vercel.app/api?username=ranjeet25)
+<img src="https://github-readme-stats.vercel.app/api?username=ranjeet25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ranjeet25" />
 
  <!-- GITHUB STATS 02  -->
  
