@@ -11,12 +11,11 @@ My Name Is **Ranjeet Saw 😎** And I'm A Full Stack😉 Developer And Software 
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
 - 💬 Ask me about Web Development And Programming.
-- :briefcase: You Can View My Portfolio At : **[(https://ranjeetsaw.vercel.app/)](https://ranjeetsaw.vercel.app/)**
 <!-- INTRODUCTION  ends -->
 
 
 <!-- Connect with me  -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **[https://ranjeetsaw.vercel.app/](https://ranjeetsaw.vercel.app/)**</h3>
 <p align="left">
 
 
