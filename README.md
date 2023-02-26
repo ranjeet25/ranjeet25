@@ -15,7 +15,7 @@ My Name Is **Ranjeet Saw 😎** And I'm A Full Stack😉 Developer And Software 
 
 
 <!-- Connect with me  -->
-<h3 align="left">Connect with me: </h3> ** [https://ranjeetsaw.vercel.app/](https://ranjeetsaw.vercel.app/) **
+<h3 align="left">Connect with me: </h3> ** (https://ranjeetsaw.vercel.app/) **
 <p align="left">
 
 
