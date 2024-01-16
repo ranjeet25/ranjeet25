@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet25&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetsaw" /> </p>
 
-My Name Is **Ranjeet Saw 😎** And I'm A Full Stack😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Third Year Student At **🎓 Thakur college of Engineering and Technology** Pursuing B.E/B.Tech In **🧑‍💻 Information Technology(IT)**. ⚡
+My Name Is **Ranjeet Saw 😎** And I'm A Full Stack😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Final Year Student At **🎓 Thakur College of Engineering and Technology** Pursuing B.E/B.Tech In **🧑‍💻 Information Technology(IT)**. ⚡
 ## I'm a Web Dev & Data Science Enthusiast !!
 <!-- INTRODUCTION  -->
 - 🔭 I’m currently working on BackEnd Web Development.
