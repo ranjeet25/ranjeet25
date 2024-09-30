@@ -3,58 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet25&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetsaw" /> </p>
 
-My Name Is **Ranjeet Saw 😎** And I'm A Full Stack😉 Developer And Software Developer Enthusiast. I Hail From Mumbai, India. I'm Currently A Final Year Student At **🎓 Thakur College of Engineering and Technology** Pursuing B.E/B.Tech In **🧑‍💻 Information Technology(IT)**. ⚡
-## I'm a Web Dev & Data Science Enthusiast !!
+My Name Is **Ranjeet Saw** And I'm Software Consultant and Developer. I Hail From Mumbai, India. I Have Graduated From 🎓 Thakur College of Engineering and Technology With a B.E/B.Tech In **Information Technology(IT) in the year 2024.**   
+
 <!-- INTRODUCTION  -->
-- 🔭 I’m currently working on BackEnd Web Development.
-- 🌱 I’m currently Into MERN Stack And DSA.
-- 👯 I’m looking to collaborate on Web Development Projects.
-- 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
-- 💬 Ask me about Web Development And Programming.
+➡️ Currently working for one of India's largest life insurance companies.  
+➡️ I'm proficient in designing and developing applications that help organizations achieve their business goals!  
+➡️ Expert in the BFSI domain, including insurance and lending.  
+➡️ Highly interested in open-source development.
+
 <!-- INTRODUCTION  ends -->
 
+<!-- CORE TECH  -->
+<h4>My Core Tech Expertise </h4>  
 
-<!-- Connect with me  -->
-<h3 align="left">Connect with me: </h3> https://ranjeetsaw.vercel.app/
-<p align="left">
-
-
-<!-- Social icons  -->
-<!-- <a href="https://twitter.com/ranjeetsaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderharsh06" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ranjeet-saw-4834a21b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderharsh06" height="30" width="40" /></a>
-<a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coderharsh06" height="30" width="40" /></a>
-<a href="https://instagram.com/imranjeeet " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderharsh06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sawranjeet550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codebraker7" height="30" width="40" /></a>
-</p> -->
-
-<!-- Social icons ENDS  -->
-
-<!-- Languages icons  -->
-
-<h3 align="left">Languages and Tools:</h3>
-
-![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") 
+![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA")
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS") 
 ![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") 
-![REACT JS](https://img.icons8.com/color/48/000000/react-native.png "REACT JS") 
-![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") 
-![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") 
-![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") 
-<br>
-![FIGMA](https://img.icons8.com/color/48/000000/figma.png "FIGMA") 
-![GOOGLE CLOUD](https://img.icons8.com/color/48/000000/google-cloud.png "GOOGLE CLOUD") 
-![BLOCKCHAIN](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "BLOCKCHAIN")
+![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") 
 ![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MYSQL") 
-![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") 
-![C](https://img.icons8.com/color/48/000000/c-programming.png "C") 
 ![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") 
-![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
-![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
-![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCODE") 
-![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
-<!-- Languages icons ENDS  -->
+![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") 
+<!-- CORE TECH  ends -->
+
+
+<!-- Connect with me  -->
+<h4 align="left">Connect with me </h4> <a href='https://www.linkedin.com/in/ranjeet-saw-4834a21b0/'><img width='30px'  height='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9lOYvVYtruNLntp5K61JoX4mACQZ0BmTqQ&s'></img> </a>
+<p align="left">
+
+<!-- Social icons ENDS  -->
+
 
 <i><b><h2> GitHub Stats ✅</b></i></h2>
 <!-- GITHUB STATS 01  -->
