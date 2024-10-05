@@ -6,7 +6,7 @@
 My Name Is **Ranjeet Saw** And I'm Software Consultant and Developer. I Hail From Mumbai, India. I Have Graduated From 🎓 Thakur College of Engineering and Technology With a B.E/B.Tech In **Information Technology(IT) in the year 2024.**   
 
 <!-- INTRODUCTION  -->
-➡️ Currently working for one of India's largest life insurance companies.  
+➡️ Currently working for one of India's largest life insurance company.  
 ➡️ I'm proficient in designing and developing applications that help organizations achieve their business goals!  
 ➡️ Expert in the BFSI domain, including insurance and lending.  
 ➡️ Highly interested in open-source development.
